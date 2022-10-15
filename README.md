@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Narayan</h1>
-<h3 align="center">An enthusiastic software developer</h3>
+<h3 align="center">An ardent software developer</h3>
 
 
 
