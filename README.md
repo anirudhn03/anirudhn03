@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anirudhn2003@gmail.com**
 
-- ⚡ Fun fact **Even though it is 2022, still with no instagram account.**
+- ⚡ Fun fact **Even though it is 2022, still have no instagram account.**
 
 
 <p align="left">
