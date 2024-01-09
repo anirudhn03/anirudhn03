@@ -2,19 +2,10 @@
 <h3 align="center">AN ARDENT SOFTWARE DEVELOPER</h3>
 
 
-
-
-- 🔭 I’m currently working on **Java-mini project**
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Database systems**
-
-- 💬 Ask me about **Python, C-Programming, MySQL, Java.**
+- 💬 Ask me about **Python, C-Programming, MySQL, Java, JS, HTML, CSS, MongoDB.**
 
 - 📫 How to reach me **anirudhn2003@gmail.com**
 
-- ⚡ Fun fact **Even though it is 2022, still have no instagram account.**
 
 
 <p align="left">
